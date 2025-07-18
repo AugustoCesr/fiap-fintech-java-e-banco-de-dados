@@ -21,20 +21,20 @@ para interação do usuário, e foi implementado o tratamento de exceções para
 
 - `Cadastrar e Consultar Receitas`<br>
 <div style="display: flex;">
-  <img width="339" height="439" alt="Imagem do terminal rodando a aplicação Fintech Cadastrar Receitas" src="https://github.com/user-attachments/assets/fc75fb56-9c1c-4b13-afde-05ff2904fc22" />
-  <img width="451" height="355" alt="Imagem do terminal rodando a aplicação Fintech Consultar Receitas" src="https://github.com/user-attachments/assets/c8793d99-5874-48e4-8262-962cf5536c89" />
+  <img width="310" height="439" alt="Imagem do terminal rodando a aplicação Fintech Cadastrar Receitas" src="https://github.com/user-attachments/assets/fc75fb56-9c1c-4b13-afde-05ff2904fc22" />
+  <img width="432" height="355" alt="Imagem do terminal rodando a aplicação Fintech Consultar Receitas" src="https://github.com/user-attachments/assets/c8793d99-5874-48e4-8262-962cf5536c89" />
 </div><br><br>
 
 - `Cadastrar e Consultar Despesas`<br>
 <div style="display: flex;">
   <img width="329" height="439" alt="Imagem do terminal rodando a aplicação Fintech Cadastrar Despesas" src="https://github.com/user-attachments/assets/06bf13ad-223c-44ff-a190-97702406218a" />
-  <img width="565" height="351" alt="Imagem do terminal rodando a aplicação Fintech Consultar Despesas" src="https://github.com/user-attachments/assets/b032c9e3-7486-420a-b998-e2630a88ffc2" />
+  <img width="536" height="351" alt="Imagem do terminal rodando a aplicação Fintech Consultar Despesas" src="https://github.com/user-attachments/assets/b032c9e3-7486-420a-b998-e2630a88ffc2" />
 </div><br><br>
 
 - `Cadastrar e Consultar Investimentos`<br>
 <div style="display: flex;">
-  <img width="353" height="436" alt="Imagem do terminal rodando a aplicação Fintech Cadastrar Investimentos" src="https://github.com/user-attachments/assets/52d5a279-8482-415e-8bbb-3a2d4d961fad" />
-  <img width="501" height="350" alt="Imagem do terminal rodando a aplicação Fintech Consultar Investimentos" src="https://github.com/user-attachments/assets/38cf7cf8-85b3-48fc-af23-782160857624" />
+  <img width="300" height="436" alt="Imagem do terminal rodando a aplicação Fintech Cadastrar Investimentos" src="https://github.com/user-attachments/assets/52d5a279-8482-415e-8bbb-3a2d4d961fad" />
+  <img width="472" height="350" alt="Imagem do terminal rodando a aplicação Fintech Consultar Investimentos" src="https://github.com/user-attachments/assets/38cf7cf8-85b3-48fc-af23-782160857624" />
 </div><br><br>
 
 - `Finalizar`<br>
