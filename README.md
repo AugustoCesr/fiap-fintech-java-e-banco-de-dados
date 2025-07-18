@@ -15,8 +15,8 @@ para interação do usuário, e foi implementado o tratamento de exceções para
 
 - `Cadastrar e Consultar Contas`<br>
 <div style="display: flex;">
-  <img width="395" height="400" alt="Imagem do terminal rodando a aplicação Fintech Cadastrar Contas" src="https://github.com/user-attachments/assets/17ed4365-f0cd-431f-bf63-51957b86629d"/>
-  <img width="507" height="350" alt="Imagem do terminal rodando a aplicação Fintech Consultar Contas" src="https://github.com/user-attachments/assets/ad92f77a-ae17-4624-a3ff-c915570e4c32" />
+  <img alt="Imagem do terminal rodando a aplicação Fintech Cadastrar Contas" src="https://github.com/user-attachments/assets/17ed4365-f0cd-431f-bf63-51957b86629d"/>
+  <img alt="Imagem do terminal rodando a aplicação Fintech Consultar Contas" src="https://github.com/user-attachments/assets/ad92f77a-ae17-4624-a3ff-c915570e4c32" />
 </div><br><br>
 
 - `Cadastrar e Consultar Receitas`<br>
