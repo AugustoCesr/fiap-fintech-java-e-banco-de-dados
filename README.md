@@ -5,6 +5,14 @@ Em **Java** foi criado todas as package, para o código ficar organizado. Foi cr
 Foram criadas as classes **DAO** para registro e consulta de dados, e as classes **Model** referente as entidades do banco de dados, que utiliza as **DAO** para acessar e manipular os dados. E também foi criado o MenuView
 para interação do usuário, e foi implementado o tratamento de exceções para lidar com possíveis problemas durante o acesso ao banco de dados.<br><br>
 
+## :computer: Tecnologias e Ferramentas utilizadas
+- `Java`
+- `SQL`
+- `Intellij IDEA`
+- `Oracle SQL Developer Data Modeler`
+- `Oracle SQL Developer`
+- `Oracle Database`<br><br>
+
 ## Funcionalidades do projeto
 
 - `Cadastrar e Consultar Usuário`<br>
@@ -54,11 +62,3 @@ para interação do usuário, e foi implementado o tratamento de exceções para
 <img width="621" height="136" alt="Imagem dos dados da tabela despesas no banco de dados" src="https://github.com/user-attachments/assets/8ff0790e-eb69-488e-9d11-4463ac345a31" /><br><br>
 - `Tabela Investimentos Dados`<br>
 <img width="663" height="139" alt="Imagem dos dados da tabela investimentos no banco de dados" src="https://github.com/user-attachments/assets/927013ca-b888-4b54-8e6b-947ef1b2cd52" /><br><br>
-
-## :computer: Tecnologias e Ferramentas utilizadas
-- `Java`
-- `SQL`
-- `Intellij IDEA`
-- `Oracle SQL Developer Data Modeler`
-- `Oracle SQL Developer`
-- `Oracle Database`
