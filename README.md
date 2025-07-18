@@ -15,8 +15,8 @@ para interação do usuário, e foi implementado o tratamento de exceções para
 
 - `Cadastrar e Consultar Contas`<br>
 <div style="display: flex;">
-  <img alt="Imagem do terminal rodando a aplicação Fintech Cadastrar Contas" src="https://github.com/user-attachments/assets/17ed4365-f0cd-431f-bf63-51957b86629d"/>
-  <img alt="Imagem do terminal rodando a aplicação Fintech Consultar Contas" src="https://github.com/user-attachments/assets/ad92f77a-ae17-4624-a3ff-c915570e4c32" />
+  <img width="300" height="436" alt="Imagem do terminal rodando a aplicação Fintech Cadastrar Contas" src="https://github.com/user-attachments/assets/17ed4365-f0cd-431f-bf63-51957b86629d"/>
+  <img width="472" height="350" alt="Imagem do terminal rodando a aplicação Fintech Consultar Contas" src="https://github.com/user-attachments/assets/ad92f77a-ae17-4624-a3ff-c915570e4c32" />
 </div><br><br>
 
 - `Cadastrar e Consultar Receitas`<br>
@@ -27,8 +27,8 @@ para interação do usuário, e foi implementado o tratamento de exceções para
 
 - `Cadastrar e Consultar Despesas`<br>
 <div style="display: flex;">
-  <img width="329" height="410" alt="Imagem do terminal rodando a aplicação Fintech Cadastrar Despesas" src="https://github.com/user-attachments/assets/06bf13ad-223c-44ff-a190-97702406218a" />
-  <img width="536" height="320" alt="Imagem do terminal rodando a aplicação Fintech Consultar Despesas" src="https://github.com/user-attachments/assets/b032c9e3-7486-420a-b998-e2630a88ffc2" />
+  <img width="300" height="436" alt="Imagem do terminal rodando a aplicação Fintech Cadastrar Despesas" src="https://github.com/user-attachments/assets/06bf13ad-223c-44ff-a190-97702406218a" />
+  <img width="472" height="350" alt="Imagem do terminal rodando a aplicação Fintech Consultar Despesas" src="https://github.com/user-attachments/assets/b032c9e3-7486-420a-b998-e2630a88ffc2" />
 </div><br><br>
 
 - `Cadastrar e Consultar Investimentos`<br>
