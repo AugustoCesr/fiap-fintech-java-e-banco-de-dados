@@ -63,7 +63,7 @@ para interação do usuário, e foi implementado o tratamento de exceções para
 - `Tabela Investimentos Dados`<br>
 <img width="663" height="139" alt="Imagem dos dados da tabela investimentos no banco de dados" src="https://github.com/user-attachments/assets/927013ca-b888-4b54-8e6b-947ef1b2cd52" /><br><br>
 
-## Modelo de Dados
+## Modelos de Dados
 - `Modelo Lógico`
 <br><img width="900" height="500" alt="Fintech_atualizado_modelo_logico" src="https://github.com/user-attachments/assets/e6b024a4-99f3-4fca-962d-61a0abebaaef" /><br><br>
 - `Modelo Relacional`
